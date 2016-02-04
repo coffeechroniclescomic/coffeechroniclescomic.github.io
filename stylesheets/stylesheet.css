@@ -54,9 +54,9 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
+  color:  #c6c4d2;
   text-align: center;
-  background-size: full;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-image: url("http://heartwoodcollective-code.github.io/heartwoodcollective.jpg"); }
 
