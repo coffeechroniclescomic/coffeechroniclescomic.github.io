@@ -54,11 +54,12 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color:  #6cab5f;
+  color:  black;
   text-align: center;
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
   background-image: url("http://heartwoodcollective-code.github.io/heartwoodcollective.jpg"); }
 
 @media screen and (min-width: 64em) {
