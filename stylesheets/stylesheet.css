@@ -56,7 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
+  background-size: full;
+  background-repeat: no-repeat;
   background-image: url("http://heartwoodcollective-code.github.io/heartwoodcollective.jpg"); }
 
 @media screen and (min-width: 64em) {
