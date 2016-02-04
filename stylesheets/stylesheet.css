@@ -58,6 +58,7 @@ a {
   text-align: center;
   background-size: 100%;
   background-repeat: no-repeat;
+  background-position: bottom;
   background-image: url("http://heartwoodcollective-code.github.io/heartwoodcollective.jpg"); }
 
 @media screen and (min-width: 64em) {
